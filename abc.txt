@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    double a, b, product;
+    double a, b,c, product;
     printf("Enter two numbers: ");
     scanf("%lf %lf", &a, &b);  
  
